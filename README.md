@@ -1,4 +1,5 @@
 🔒 Sistema de Segurança Pessoal com FPGA
+
 Este projeto implementa um Sistema de Segurança Pessoal utilizando uma placa FPGA para demonstração. O sistema é baseado em uma barreira a laser que monitora a passagem de indivíduos. Quando alguém atravessa a barreira, o sistema aciona um mecanismo de desativação do maquinário, garantindo maior segurança no ambiente.
 
 🚀 Funcionalidades
