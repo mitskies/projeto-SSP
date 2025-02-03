@@ -1,0 +1,7 @@
+
+State Machine - |Proj_rev2|current_state
+Name current_state.state_bit_1 current_state.state_bit_0 
+current_state.INITIAL 0 0 
+current_state.RUN 0 1 
+current_state.FAULT 1 0 
+current_state.RESET 1 1 

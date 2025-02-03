@@ -1,0 +1,19 @@
+|Proj_rev2
+clk => reset_latched.CLK
+clk => run_latched.CLK
+clk => reset_pressed.CLK
+clk => run_pressed.CLK
+clk => current_state.IN1
+pinSensor => next_state.IN0
+pinSensor => Selector2.IN3
+pinRun => process_0.IN1
+pinRun => run_pressed.DATAIN
+pinReset => process_0.IN1
+pinReset => reset_pressed.DATAIN
+pinMotor <= pinMotor.DB_MAX_OUTPUT_PORT_TYPE
+pinBuzzer <= pinBuzzer.DB_MAX_OUTPUT_PORT_TYPE
+pinledVerde <= pinledVerde.DB_MAX_OUTPUT_PORT_TYPE
+pinledAmarelo <= pinledAmarelo.DB_MAX_OUTPUT_PORT_TYPE
+pinledVermelho <= pinledVermelho.DB_MAX_OUTPUT_PORT_TYPE
+
+
